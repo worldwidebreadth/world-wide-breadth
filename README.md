@@ -7,7 +7,7 @@ World Wide Breadth is designed to support students by providing free educational
 
 ## 🔗 Live Demo
 Check out the live website here:  
-https://worldwidebreadth.github.io/world-wide-breadth/
+https://worldwidebreadth.github.io/
 
 ## 🛠️ Technologies Used
 * HTML5
